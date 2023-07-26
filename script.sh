@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 echo "This is scriopt from gitlab"
 number=$(($number1+$number2))
